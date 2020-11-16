@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F4F5F0;
+    background-image: url("../img/pizzaBackground.jpg");
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 80%px;
+}
+
+nav {
+    background-color: #F4F5F0;
+}
+
+nav a {
+    color: black;
+}
+
+h1 {
+    font-family: 'Tangerine', cursive;
+    font-size: 4em;
+    letter-spacing: .25em;
+    font-weight: bold;
+}
+
+header {
+    text-align: center;
+    padding: 1em;
+    background-color: #008C45;
+    height: 115px;
+}
+
+footer {
+    font-size: .75em;
+    text-align: center;
+    background-color: #F4F5F0;
+}
+
+#main-content {
+    background-color: #CD212A;
+}
+
+h3 {
+    text-align: center;
+    padding: .5em;
+    color: #F4F5F0;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#ingredient-form div {
+    margin: 10px;
+    border: 1px solid #F4F5F0;
+    padding: .15em 1em;
+    line-height: 1.3em;
+}
+
+legend {
+    margin: .25em .5em;
+}
+
+.total-counter {
+    text-align: right;
+    font-weight: bold;
+    color: #F4F5F0;
+    padding: 0 .5em .5em 0;
+}
+
+#info-form {
+    padding: 1em;
+}
+
+#review {
+    padding: 1em;
+}
+
+#review p {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+
+

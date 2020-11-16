@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99554c1d-aa5e-4cd6-b3d8-85a1dab678c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JQuery JS" />
+        <option value="JQuery HTML" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kLk3o3tvbMQ5n7TMSw5CdlJ8SP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week 3/Demo/Demo1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.jsx" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nick\OneDrive - Waukesha County Technical College\Documents\WCTC\Semester 1 - Term 2\JavaScript\Week 4\Unit1Project\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99554c1d-aa5e-4cd6-b3d8-85a1dab678c6" name="Default Changelist" comment="" />
+      <created>1605487062560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605487062560</updated>
+      <workItem from="1605487063623" duration="16976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2540" y="260" key="FileChooserDialogImpl" timestamp="1605497036094">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2540" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1605497036094" />
+    <state x="2261" y="150" key="SettingsEditor" timestamp="1605489600268">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2261" y="150" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1605489600268" />
+    <state x="2540" y="310" key="save.file.as.template.dialog" timestamp="1605487473605">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2540" y="310" key="save.file.as.template.dialog/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1605487473605" />
+    <state x="2628" y="412" key="save.project.as.template.dialog" timestamp="1605487509566">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2628" y="412" key="save.project.as.template.dialog/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1605487509566" />
+  </component>
+</project>
